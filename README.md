@@ -7,6 +7,7 @@ Open the terminal, execute command:
 
 `
 pip install selenium
+
 git clone https://github.com/vladimirsvsv77/rpa_linkedin.git
 `
 
