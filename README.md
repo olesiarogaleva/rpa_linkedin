@@ -10,6 +10,6 @@ than, execute:
 
 and than:
 
-`python run_rpa.py'
+`python run_rpa.py`
 
 then enter the data requested by the program
