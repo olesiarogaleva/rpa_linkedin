@@ -1,6 +1,8 @@
 # RPA tool for Linkedin
 
-How to run: 
+Before running, we need to add companies to file companies.txt, and each company should be on a separate line. 
+
+## How to run: 
 open terminal, execute command: 
 `git clone https://github.com/vladimirsvsv77/rpa_linkedin.git`
 if you don't have git, download it and install here: https://git-scm.com/
@@ -12,4 +14,6 @@ and than:
 
 `python run_rpa.py`
 
-then enter the data requested by the program
+then enter the data requested by the program.
+
+
