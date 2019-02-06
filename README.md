@@ -16,6 +16,6 @@ and than:
 
 `python run_rpa.py`
 
-then enter the data requested by the program.
+after that enter the data requested by the program.
 
 
